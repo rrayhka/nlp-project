@@ -1,6 +1,0 @@
-
-# SENTIMEN ANALISIS
-
-test123
-
-
